@@ -1,6 +1,8 @@
 body {
     background-image: url(img/plano\ de\ fundo\ pedro.jpg);
     font-family: Bai Jamjuree;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 footer {
     background-color: black;
